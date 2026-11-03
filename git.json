@@ -40,6 +40,11 @@
     "p_sink_file": "Sales_2017.csv"
   },
   {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Products.csv",
+    "p_sink_dir": "products",
+    "p_sink_file": "products.csv"
+  },
+  {
     "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Territories.csv",
     "p_sink_dir": "Territories",
     "p_sink_file": "Territories.csv"
