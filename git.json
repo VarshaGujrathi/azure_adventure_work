@@ -1,0 +1,47 @@
+[
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Calendar.csv",
+    "p_sink_dir": "Calendar",
+    "p_sink_file": "Calendar.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Customers.csv",
+    "p_sink_dir": "Customers",
+    "p_sink_file": "Customers.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Product_Categories.csv",
+    "p_sink_dir": "Categories",
+    "p_sink_file": "Categories.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Product_Subcategories.csv",
+    "p_sink_dir": "Subcategories",
+    "p_sink_file": "Subcategories.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Returns.csv",
+    "p_sink_dir": "Returns",
+    "p_sink_file": "Returns.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Sales_2015.csv",
+    "p_sink_dir": "Sales_2015",
+    "p_sink_file": "Sales_2015.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Sales_2016.csv",
+    "p_sink_dir": "Sales_2016",
+    "p_sink_file": "Sales_2016.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Sales_2017.csv",
+    "p_sink_dir": "Sales_2017",
+    "p_sink_file": "Sales_2017.csv"
+  },
+  {
+    "p_rel_url": "VarshaGujrathi/azure_adventure_work/blob/main/Data/AdventureWorks_Territories.csv",
+    "p_sink_dir": "Territories",
+    "p_sink_file": "Territories.csv"
+  }
+]
